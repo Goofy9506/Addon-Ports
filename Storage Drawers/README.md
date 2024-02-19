@@ -1,5 +1,5 @@
 ## Storage Drawers [Bedrock]
-An unofficial version of the Storage Drawers Mod for Minecraft: Java Edition.
+An unofficial version of the Storage Drawers Mod for Minecraft: Bedrock Edition.
 Comes with multiple storage drawers which act as a way to store your items compactly.
 
 
